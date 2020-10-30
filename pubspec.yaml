@@ -30,3 +30,6 @@ flutter:
     fonts:
     - asset: fonts/SpartanMB-Black.otf
       weight: 900
+  - family: Alloy Ink
+    fonts:
+    - asset: fonts/aAlloyInk.otf
